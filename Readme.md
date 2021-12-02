@@ -6,3 +6,4 @@ To create cobertura report either use:
 or
 * `mvn clean package`
 
+## Testing for the purpose of Jira Integration
